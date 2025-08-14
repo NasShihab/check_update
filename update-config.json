@@ -1,7 +1,7 @@
 {
   "build": "219",
   "version": "4.7.41",
-  "dealer": "true",
+  "dealer": "false",
   "admin": "true",
   "public": "true"
 }
